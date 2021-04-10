@@ -1,2 +1,3 @@
 # pythondojang
-This repo is a practice of python_Coding_Dojang(https://dojang.io/course/view.php?id=7)
+
+[파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)을 공부하며 실습한 자료입니다.
